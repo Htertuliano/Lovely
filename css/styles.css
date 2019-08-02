@@ -2,8 +2,9 @@
 body {
   background: #f5a2a2;
   display: flex;
-  Padding: 5em;
+  padding: 5em;
   justify-content: center;
+  overflow-x: scroll;
 }
 
 .typewriter {
